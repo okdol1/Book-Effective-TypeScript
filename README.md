@@ -1,6 +1,6 @@
 # book-effective-typescript
 
-![effective-typescript](https://user-images.githubusercontent.com/76744586/214593609-d631e094-c0f4-4b78-8839-d30d6e291a63.jpeg)
+<p align="center"><img src="https://user-images.githubusercontent.com/76744586/214593609-d631e094-c0f4-4b78-8839-d30d6e291a63.jpeg"></p>
 
 - Effective Typescript를 읽고 정리합니다.
 - 아이템에서 강조하는 내용이 많지만 최대한 핵심을 압축할 수 있도록 해봅니다.
@@ -29,6 +29,6 @@
 - [ ] 아이템 13. 타입과 인터페이스의 차이점 알기
 - [x] 아이템 14. 타입 연산과 제너릭 사용으로 반복 줄이기
 - [x] 아이템 15. 동적 데이터에 인덱스 시그니처 사용하기
-- [] 아이템 16. number 인덱스 시그니처보다는 Array, 튜플, ArrayLike를 사용하기
-- [] 아이템 17. 변경 관련된 오류 방지를 위해 readonly 사용하기
-- [] 아이템 18. 매핑된 타입을 사용하여 값을 동기화하기
+- [ ] 아이템 16. number 인덱스 시그니처보다는 Array, 튜플, ArrayLike를 사용하기
+- [ ] 아이템 17. 변경 관련된 오류 방지를 위해 readonly 사용하기
+- [ ] 아이템 18. 매핑된 타입을 사용하여 값을 동기화하기
