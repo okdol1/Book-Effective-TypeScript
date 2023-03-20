@@ -9,15 +9,15 @@
 
 ## 목록
 
-### 1장 타입스크립트 알아보기
+### 1장 [타입스크립트 알아보기](https://github.com/okdol1/Book-Effective-TypeScript/tree/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 
-- [x] 아이템 1. 타입스크립트와 자바스크립트의 관계 이해하기
-- [x] 아이템 2. 타입스크립트 설정 이해하기
-- [x] 아이템 3. 코드 생성과 타입이 관계없을을 이해하기
+- [x] 아이템 1. [타입스크립트와 자바스크립트의 관계 이해하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item01.md)
+- [x] 아이템 2. [타입스크립트 설정 이해하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item02.md)
+- [x] 아이템 3. [코드 생성과 타입이 관계없을을 이해하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item03.md)
 - [ ] 아이템 4. 구조적 타이핑에 익숙해지기
-- [x] 아이템 5. any 타입 지양하기
+- [x] 아이템 5. [any 타입 지양하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item05.md)
 
-### 2장 타입스크립트 타입 시스템
+### 2장 [타입스크립트 타입 시스템](https://github.com/okdol1/Book-Effective-TypeScript/tree/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
 - [ ] 아이템 6. 편집기를 사용하여 타입 시스템 탐색하기
 - [ ] 아이템 7. 타입이 값들의 집합이라고 생각하기
@@ -27,43 +27,43 @@
 - [ ] 아이템 11. 잉여 속성 체크의 한계 인지하기
 - [ ] 아이템 12. 함수 표현식에 타입 적용하기
 - [ ] 아이템 13. 타입과 인터페이스의 차이점 알기
-- [x] 아이템 14. 타입 연산과 제너릭 사용으로 반복 줄이기
-- [x] 아이템 15. 동적 데이터에 인덱스 시그니처 사용하기
-- [x] 아이템 16. number 인덱스 시그니처보다는 Array, 튜플, ArrayLike를 사용하기
+- [x] 아이템 14. [타입 연산과 제너릭 사용으로 반복 줄이기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item14.md)
+- [x] 아이템 15. [동적 데이터에 인덱스 시그니처 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item15.md)
+- [x] 아이템 16. [number 인덱스 시그니처보다는 Array, 튜플, ArrayLike를 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item16.md)
 - [ ] 아이템 17. 변경 관련된 오류 방지를 위해 readonly 사용하기
 - [ ] 아이템 18. 매핑된 타입을 사용하여 값을 동기화하기
 
-### 3장 타입 추론
+### 3장 [타입 추론](https://github.com/okdol1/Book-Effective-TypeScript/tree/main/ch03_%ED%83%80%EC%9E%85_%EC%B6%94%EB%A1%A0)
 
-- [x] 아이템 19. 추론 가능한 타입을 사용해 장황한 코드 방지하기
-- [x] 아이템 20. 다른 타입에는 다른 변수 사용하기
-- [x] 아이템 21. 타입 넓히기
-- [x] 아이템 22. 타입 좁히기
+- [x] 아이템 19. [추론 가능한 타입을 사용해 장황한 코드 방지하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch03_%ED%83%80%EC%9E%85_%EC%B6%94%EB%A1%A0/item19.md)
+- [x] 아이템 20. [다른 타입에는 다른 변수 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch03_%ED%83%80%EC%9E%85_%EC%B6%94%EB%A1%A0/item20.md)
+- [x] 아이템 21. [타입 넓히기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch03_%ED%83%80%EC%9E%85_%EC%B6%94%EB%A1%A0/item21.md)
+- [x] 아이템 22. [타입 좁히기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch03_%ED%83%80%EC%9E%85_%EC%B6%94%EB%A1%A0/item22.md)
 - [ ] 아이템 23. 한꺼번에 객체 생성하기
 - [ ] 아이템 24. 일관성 있는 별칭 사용하기
 - [ ] 아이템 25. 비동기 코드에는 콜백 대신 async 함수 사용하기
 - [ ] 아이템 26. 타입 추론에 문맥이 어떻게 사용되는지 이해하기
 - [ ] 아이템 27. 함수형 기법과 라이브러리로 타입 흐름 유지하기
 
-### 4장 타입 설계
+### 4장 [타입 설계](https://github.com/okdol1/Book-Effective-TypeScript/tree/main/ch04_%ED%83%80%EC%9E%85_%EC%84%A4%EA%B3%84)
 
-- [x] 아이템 28. 유효한 상태만 표현하는 타입을 지향하기
-- [x] 아이템 29. 사용할 때는 너그럽게, 생성할 때는 엄격하게
-- [x] 아이템 30. 문서에 타입 정보를 쓰지 않기
-- [x] 아이템 31. 타입 주변에 null 값 배치하기
-- [x] 아이템 32. 유니온의 인터페이스보다 인터페이스의 유니온을 사용하기
-- [x] 아이템 33. string 타입보다 더 구체적인 타입 사용하기
-- [x] 아이템 34. 부정확한 타입보다는 미완성 타입을 사용하기
-- [x] 아이템 35. 데이터가 아닌, API와 명세를 보고 타입 만들기
-- [x] 아이템 36. 해당 분야의 용어로 타입 이름 짓기
-- [x] 아이템 37. 공식 명칭에는 상표를 붙이기
+- [x] 아이템 28. [유효한 상태만 표현하는 타입을 지향하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch04_%ED%83%80%EC%9E%85_%EC%84%A4%EA%B3%84/item28.md)
+- [x] 아이템 29. [사용할 때는 너그럽게, 생성할 때는 엄격하게](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch04_%ED%83%80%EC%9E%85_%EC%84%A4%EA%B3%84/item29.md)
+- [x] 아이템 30. [문서에 타입 정보를 쓰지 않기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch04_%ED%83%80%EC%9E%85_%EC%84%A4%EA%B3%84/item30.md)
+- [x] 아이템 31. [타입 주변에 null 값 배치하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch04_%ED%83%80%EC%9E%85_%EC%84%A4%EA%B3%84/item31.md)
+- [x] 아이템 32. [유니온의 인터페이스보다 인터페이스의 유니온을 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch04_%ED%83%80%EC%9E%85_%EC%84%A4%EA%B3%84/item32.md)
+- [x] 아이템 33. [string 타입보다 더 구체적인 타입 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch04_%ED%83%80%EC%9E%85_%EC%84%A4%EA%B3%84/item33.md)
+- [x] 아이템 34. [부정확한 타입보다는 미완성 타입을 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch04_%ED%83%80%EC%9E%85_%EC%84%A4%EA%B3%84/item34.md)
+- [x] 아이템 35. [데이터가 아닌, API와 명세를 보고 타입 만들기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch04_%ED%83%80%EC%9E%85_%EC%84%A4%EA%B3%84/item35.md)
+- [x] 아이템 36. [해당 분야의 용어로 타입 이름 짓기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch04_%ED%83%80%EC%9E%85_%EC%84%A4%EA%B3%84/item36.md)
+- [x] 아이템 37. [공식 명칭에는 상표를 붙이기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch04_%ED%83%80%EC%9E%85_%EC%84%A4%EA%B3%84/item37.md)
 
-### 5장 any 다루기
+### 5장 [any 다루기](https://github.com/okdol1/Book-Effective-TypeScript/tree/main/ch05_any_%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 
-- [x] 아이템 38. any 타입은 가능한 한 좁은 범위에서만 사용하기
-- [x] 아이템 39. any를 구체적으로 변형해서 사용하기
-- [x] 아이템 40. 함수 안으로 타입 단언문 감추기
-- [x] 아이템 41. any의 진화를 이해하기
-- [ ] 아이템 42. 모르는 타입의 값에는 any 대신 unknown을 사용하기
+- [x] 아이템 38. [any 타입은 가능한 한 좁은 범위에서만 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch05_any_%EB%8B%A4%EB%A3%A8%EA%B8%B0/item38.md)
+- [x] 아이템 39. [any를 구체적으로 변형해서 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch05_any_%EB%8B%A4%EB%A3%A8%EA%B8%B0/item39.md)
+- [x] 아이템 40. [함수 안으로 타입 단언문 감추기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch05_any_%EB%8B%A4%EB%A3%A8%EA%B8%B0/item40.md)
+- [x] 아이템 41. [any의 진화를 이해하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch05_any_%EB%8B%A4%EB%A3%A8%EA%B8%B0/item41.md)
+- [x] 아이템 42. 모르는 타입의 값에는 any 대신 unknown을 사용하기
 - [ ] 아이템 43. 몽키 패치보다는 안전한 타입을 사용하기
 - [ ] 아이템 44. 타입 커버리지를 추적하여 타입 안정성 유지하기
