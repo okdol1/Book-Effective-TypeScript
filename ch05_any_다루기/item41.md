@@ -24,7 +24,7 @@ if (Math.random()<0.5>) {
 val; // 타입이 number | RegExp
 ```
 
-- 타입의 진화는 타입 좁히기(아이템 22)와 다르다. 배열에 다양한 타입의 요소를 넣으면 배열의 타입이 확장되며 진화한다.
+- 타입의 진화는 타입 좁히기([아이템 22](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch03_%ED%83%80%EC%9E%85_%EC%B6%94%EB%A1%A0/item22.md))와 다르다. 배열에 다양한 타입의 요소를 넣으면 배열의 타입이 확장되며 진화한다.
 
 ```ts
 const result = []; // 타입이 any[]
