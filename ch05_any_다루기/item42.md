@@ -72,5 +72,5 @@ let barUnk = foo as unknown as Bar;
 
 - {}, object, unknown 차이점
   - {} 타입은 null과 undefined를 제외한 모든 값을 포함합니다.
-  - object 타입은 모든 비기본형(non-primitive) 타입으로 이루어집니다. 여기에는 ㅅ겯 Ehsms 12 Ehsms "foo"가 포함되지 않지만 객체와 배열은 포함됩니다.
+  - object 타입은 모든 비기본형(non-primitive) 타입으로 이루어집니다. 여기에는 true 또는 12 또는 "foo"가 포함되지 않지만 객체와 배열은 포함됩니다.
   - unknown 타입이 도입되기 전에는 {}가 더 일반적으로 사용되었지만, 최근에는 {}를 사용하는 경우가 꽤 드뭅니다. 정말로 null과 undefined가 불가능하다고 판단되는 경우만 unknown 대신 {}를 사용하면 됩니다.
