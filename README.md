@@ -65,5 +65,9 @@
 - [x] 아이템 40. [함수 안으로 타입 단언문 감추기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch05_any_%EB%8B%A4%EB%A3%A8%EA%B8%B0/item40.md)
 - [x] 아이템 41. [any의 진화를 이해하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch05_any_%EB%8B%A4%EB%A3%A8%EA%B8%B0/item41.md)
 - [x] 아이템 42. [모르는 타입의 값에는 any 대신 unknown을 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch05_any_%EB%8B%A4%EB%A3%A8%EA%B8%B0/item42.md)
-- [x] 아이템 43. 몽키 패치보다는 안전한 타입을 사용하기
+- [x] 아이템 43. [몽키 패치보다는 안전한 타입을 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch05_any_%EB%8B%A4%EB%A3%A8%EA%B8%B0/item43.md)
 - [x] 아이템 44. [타입 커버리지를 추적하여 타입 안정성 유지하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch05_any_%EB%8B%A4%EB%A3%A8%EA%B8%B0/item44.md)
+
+### 6장 타입 선언과 @types
+
+- [x] 아이템 45. devDependencies에 typescript와 @types 추가하기
