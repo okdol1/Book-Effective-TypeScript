@@ -72,7 +72,7 @@
 
 - [x] 아이템 45. [devDependencies에 typescript와 @types 추가하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch06_%ED%83%80%EC%9E%85_%EC%84%A0%EC%96%B8%EA%B3%BC_%40types/item45.md)
 - [x] 아이템 46. 타입 선언과 관련된 세 가지 버전 이해하기
-- [ ] 아이템 47. 공개 API에 등장하는 모든 타입을 익스포트하기
+- [x] 아이템 47. 공개 API에 등장하는 모든 타입을 익스포트하기
 - [ ] 아이템 48. API 주석에 TSDoc 사용하기
 - [ ] 아이템 49. 콜백에서 this에 대한 타입 제공하기
 - [ ] 아이템 50. 오버로딩 타입보다는 조건부 타입을 사용하기
