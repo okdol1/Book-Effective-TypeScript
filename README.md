@@ -75,6 +75,22 @@
 - [x] 아이템 47. [공개 API에 등장하는 모든 타입을 익스포트하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch06_%ED%83%80%EC%9E%85_%EC%84%A0%EC%96%B8%EA%B3%BC_%40types/item47.md)
 - [x] 아이템 48. [API 주석에 TSDoc 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch06_%ED%83%80%EC%9E%85_%EC%84%A0%EC%96%B8%EA%B3%BC_%40types/item48.md)
 - [x] 아이템 49. [콜백에서 this에 대한 타입 제공하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch06_%ED%83%80%EC%9E%85_%EC%84%A0%EC%96%B8%EA%B3%BC_%40types/item49.md)
-- [x] 아이템 50. [오버로딩 타입보다는 조건부 타입을 사용하기]()
-- [x] 아이템 51. [의존성 분리를 위해 미러 타입을 사용하기]()
-- [x] 아이템 52. [테스팅 타입의 함정에 주의하기]()
+- [x] 아이템 50. [오버로딩 타입보다는 조건부 타입을 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch06_%ED%83%80%EC%9E%85_%EC%84%A0%EC%96%B8%EA%B3%BC_%40types/item50.md)
+- [x] 아이템 51. [의존성 분리를 위해 미러 타입을 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch06_%ED%83%80%EC%9E%85_%EC%84%A0%EC%96%B8%EA%B3%BC_%40types/item51.md)
+- [x] 아이템 52. [테스팅 타입의 함정에 주의하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch06_%ED%83%80%EC%9E%85_%EC%84%A0%EC%96%B8%EA%B3%BC_%40types/item52.md)
+
+### 7장 코드를 작성하고 실행하기
+
+- [x] 아이템 53. 타입스크립트 기능보다는 ECMAScript 기능을 사용하기
+- [ ] 아이템 54. 객체를 순회하는 노하우
+- [ ] 아이템 55. DOM 계층 구조 이해하기
+- [ ] 아이템 56. 정보를 감추는 목적으로 private 사용하지 않기
+- [ ] 아이템 57. 소스맵을 사용하여 타입스크립트 디버깅하기
+
+### 8장 타입스크립트로 마이그레이션하기
+
+- [ ] 아이템 58. 모던 자바스크립트로 작성하기
+- [ ] 아이템 59. 타입스크립트 도입 전에 @ts-check와 JSDoc으로 시험해 보기
+- [ ] 아이템 60. allowJs로 타입스크립트와 자바스크립트 같이 사용하기
+- [ ] 아이템 61. 의존성 관계에 따라 모듈 단위로 전환하기
+- [ ] 아이템 62. 마이그레이션의 완성을 위해 noImplicitiAny 설정하기
