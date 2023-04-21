@@ -14,7 +14,7 @@
 - [x] 아이템 1. [타입스크립트와 자바스크립트의 관계 이해하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item01.md)
 - [x] 아이템 2. [타입스크립트 설정 이해하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item02.md)
 - [x] 아이템 3. [코드 생성과 타입이 관계없을을 이해하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item03.md)
-- [ ] 아이템 4. 구조적 타이핑에 익숙해지기
+- [x] 아이템 4. 구조적 타이핑에 익숙해지기
 - [x] 아이템 5. [any 타입 지양하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item05.md)
 
 ### 2장 [타입스크립트 타입 시스템](https://github.com/okdol1/Book-Effective-TypeScript/tree/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C)
@@ -81,11 +81,11 @@
 
 ### 7장 코드를 작성하고 실행하기
 
-- [x] 아이템 53. 타입스크립트 기능보다는 ECMAScript 기능을 사용하기
-- [x] 아이템 54. 객체를 순회하는 노하우
-- [x] 아이템 55. DOM 계층 구조 이해하기
-- [x] 아이템 56. 정보를 감추는 목적으로 private 사용하지 않기
-- [x] 아이템 57. 소스맵을 사용하여 타입스크립트 디버깅하기
+- [x] 아이템 53. [타입스크립트 기능보다는 ECMAScript 기능을 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch07_%EC%BD%94%EB%93%9C%EB%A5%BC_%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0_%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/item53.md)
+- [x] 아이템 54. [객체를 순회하는 노하우](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch07_%EC%BD%94%EB%93%9C%EB%A5%BC_%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0_%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/item54.md)
+- [x] 아이템 55. [DOM 계층 구조 이해하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch07_%EC%BD%94%EB%93%9C%EB%A5%BC_%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0_%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/item55.md)
+- [x] 아이템 56. [정보를 감추는 목적으로 private 사용하지 않기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch07_%EC%BD%94%EB%93%9C%EB%A5%BC_%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0_%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/item56.md)
+- [x] 아이템 57. [소스맵을 사용하여 타입스크립트 디버깅하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch07_%EC%BD%94%EB%93%9C%EB%A5%BC_%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0_%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/item57.md)
 
 ### 8장 타입스크립트로 마이그레이션하기
 
