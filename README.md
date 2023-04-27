@@ -14,7 +14,7 @@
 - [x] 아이템 1. [타입스크립트와 자바스크립트의 관계 이해하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item01.md)
 - [x] 아이템 2. [타입스크립트 설정 이해하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item02.md)
 - [x] 아이템 3. [코드 생성과 타입이 관계없을을 이해하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item03.md)
-- [x] 아이템 4. 구조적 타이핑에 익숙해지기
+- [x] 아이템 4. [구조적 타이핑에 익숙해지기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item04.md)
 - [x] 아이템 5. [any 타입 지양하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch01_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/item05.md)
 
 ### 2장 [타입스크립트 타입 시스템](https://github.com/okdol1/Book-Effective-TypeScript/tree/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C)
@@ -92,5 +92,5 @@
 - [ ] 아이템 58. 모던 자바스크립트로 작성하기
 - [ ] 아이템 59. 타입스크립트 도입 전에 @ts-check와 JSDoc으로 시험해 보기
 - [ ] 아이템 60. allowJs로 타입스크립트와 자바스크립트 같이 사용하기
-- [ ] 아이템 61. 의존성 관계에 따라 모듈 단위로 전환하기
+- [x] 아이템 61. 의존성 관계에 따라 모듈 단위로 전환하기
 - [ ] 아이템 62. 마이그레이션의 완성을 위해 noImplicitiAny 설정하기
