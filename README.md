@@ -89,8 +89,8 @@
 
 ### 8장 타입스크립트로 마이그레이션하기
 
-- [ ] 아이템 58. 모던 자바스크립트로 작성하기
-- [x] 아이템 59. 타입스크립트 도입 전에 @ts-check와 JSDoc으로 시험해 보기
-- [x] 아이템 60. allowJs로 타입스크립트와 자바스크립트 같이 사용하기
-- [x] 아이템 61. 의존성 관계에 따라 모듈 단위로 전환하기
-- [x] 아이템 62. 마이그레이션의 완성을 위해 noImplicitiAny 설정하기
+- [x] 아이템 58. [모던 자바스크립트로 작성하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch08_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C_%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/item58.md)
+- [x] 아이템 59. [타입스크립트 도입 전에 @ts-check와 JSDoc으로 시험해 보기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch08_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C_%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/item59.md)
+- [x] 아이템 60. [allowJs로 타입스크립트와 자바스크립트 같이 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch08_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C_%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/item60.md)
+- [x] 아이템 61. [의존성 관계에 따라 모듈 단위로 전환하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch08_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C_%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/item61.md)
+- [x] 아이템 62. [마이그레이션의 완성을 위해 noImplicitiAny 설정하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch08_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C_%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/item62.md)
