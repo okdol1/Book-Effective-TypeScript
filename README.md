@@ -1,11 +1,12 @@
 # book-effective-typescript
 
-<p align="center"><img src="https://user-images.githubusercontent.com/76744586/214593609-d631e094-c0f4-4b78-8839-d30d6e291a63.jpeg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/76744586/214593609-d631e094-c0f4-4b78-8839-d30d6e291a63.jpeg" />
 
 - Effective Typescript를 읽고 정리합니다.
 - 아이템에서 강조하는 내용이 많지만 최대한 핵심을 압축할 수 있도록 해봅니다.
+- [effective-typescript Github](https://github.com/danvk/effective-typescript)
 
-<br>
+<br />
 
 ## 목록
 
@@ -19,19 +20,19 @@
 
 ### 2장 [타입스크립트 타입 시스템](https://github.com/okdol1/Book-Effective-TypeScript/tree/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
-- [x] 아이템 6. 편집기를 사용하여 타입 시스템 탐색하기
-- [x] 아이템 7. 타입이 값들의 집합이라고 생각하기
-- [x] 아이템 8. 타입 공간과 값 공간의 심벌 구분하기
-- [x] 아이템 9. 타입 단언보다는 타입 선언을 사용하기
-- [x] 아이템 10. 객체 래퍼 타입 피하기
-- [x] 아이템 11. 잉여 속성 체크의 한계 인지하기
-- [x] 아이템 12. 함수 표현식에 타입 적용하기
-- [x] 아이템 13. 타입과 인터페이스의 차이점 알기
+- [x] 아이템 6. [편집기를 사용하여 타입 시스템 탐색하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item06.md)
+- [x] 아이템 7. [타입이 값들의 집합이라고 생각하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item07.md)
+- [x] 아이템 8. [타입 공간과 값 공간의 심벌 구분하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item08.md)
+- [x] 아이템 9. [타입 단언보다는 타입 선언을 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item09.md)
+- [x] 아이템 10. [객체 래퍼 타입 피하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item10.md)
+- [x] 아이템 11. [잉여 속성 체크의 한계 인지하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item11.md)
+- [x] 아이템 12. [함수 표현식에 타입 적용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item12.md)
+- [x] 아이템 13. [타입과 인터페이스의 차이점 알기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item13.md)
 - [x] 아이템 14. [타입 연산과 제너릭 사용으로 반복 줄이기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item14.md)
 - [x] 아이템 15. [동적 데이터에 인덱스 시그니처 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item15.md)
 - [x] 아이템 16. [number 인덱스 시그니처보다는 Array, 튜플, ArrayLike를 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item16.md)
-- [ ] 아이템 17. 변경 관련된 오류 방지를 위해 readonly 사용하기
-- [ ] 아이템 18. 매핑된 타입을 사용하여 값을 동기화하기
+- [x] 아이템 17. [변경 관련된 오류 방지를 위해 readonly 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item17.md)
+- [x] 아이템 18. [매핑된 타입을 사용하여 값을 동기화하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch02_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C/item18.md)
 
 ### 3장 [타입 추론](https://github.com/okdol1/Book-Effective-TypeScript/tree/main/ch03_%ED%83%80%EC%9E%85_%EC%B6%94%EB%A1%A0)
 
