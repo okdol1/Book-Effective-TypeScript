@@ -40,7 +40,7 @@
 - [x] 아이템 20. [다른 타입에는 다른 변수 사용하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch03_%ED%83%80%EC%9E%85_%EC%B6%94%EB%A1%A0/item20.md)
 - [x] 아이템 21. [타입 넓히기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch03_%ED%83%80%EC%9E%85_%EC%B6%94%EB%A1%A0/item21.md)
 - [x] 아이템 22. [타입 좁히기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch03_%ED%83%80%EC%9E%85_%EC%B6%94%EB%A1%A0/item22.md)
-- [ ] 아이템 23. 한꺼번에 객체 생성하기
+- [x] 아이템 23. [한꺼번에 객체 생성하기](https://github.com/okdol1/Book-Effective-TypeScript/blob/main/ch03_%ED%83%80%EC%9E%85_%EC%B6%94%EB%A1%A0/item23.md)
 - [ ] 아이템 24. 일관성 있는 별칭 사용하기
 - [ ] 아이템 25. 비동기 코드에는 콜백 대신 async 함수 사용하기
 - [ ] 아이템 26. 타입 추론에 문맥이 어떻게 사용되는지 이해하기
